@@ -11,7 +11,7 @@ body {
 main {
     width: 100%;
     height: 100vh;
-    background: url(../images/pineapple.jpg) center no-repeat;
+    background: url(../pineapple.jpg) center no-repeat;
     background-size: cover;
     padding: 5% 10%;
     position: relative;
